@@ -17,6 +17,6 @@ He argues that an investment company should operate like a production line and p
 5. **Decommission**: Finally there is a rule each strategy is some day outdated and will no longer provides us with expected profit. In this stage, we start to decrease the allocation of funds to the strategy. Since there are better strategies waiting in the production line (specifically step 2 and 3) to increase their share of allocation, we may never get empty-handed unless the strategy station of the production line or maybe other stations are causing problems.
 
 [pl]: https://saeidbadamchi.github.io
-Check out the [quant research][quant-research] for more info on how to get the most out of Jekyll.
+Check out the [quant research][quant-research] for more info on financial machine learning and strategy lifecycle.
 
 [quant-research]: https://quantresearch.org
