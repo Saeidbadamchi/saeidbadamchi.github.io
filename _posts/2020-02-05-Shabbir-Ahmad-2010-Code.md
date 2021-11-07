@@ -16,7 +16,9 @@ So let's dive into the model and code it.
 
 # Cost function model
 The cost function model is represented by the name `CP` in page 1796 in the paper.
+
 ![image](https://user-images.githubusercontent.com/63361235/140661929-f4781da7-52f4-4bfa-83a5-10156d3cf445.png)
+
 The code would be like this (which is a supersimple code):
 
 ```gams
