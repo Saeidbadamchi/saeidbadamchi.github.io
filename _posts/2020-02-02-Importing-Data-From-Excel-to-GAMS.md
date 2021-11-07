@@ -10,8 +10,9 @@ tags:
   - Excel
 ---
 There are various methods to import data from excel to GAMS. GDXXRW is a similar to database tool that serves as an intermediate tool to transfer data in both directions. In this post I provide some simple and clean lines of code to utilize this useful tool in order to import data from excel to GAMS. I explain the code in a procedural manner so you can keep it in mind the steps you should carry on to import your desired data.
+
 # Step 1: Define sets and parameters you wish to import
-Remember that this step is neccessary! If you do not define define the sets and the parameters, compiler will result in error 140 (Unknown Symbol). 
+Remember that this step is neccessary! If you do not define the sets and the parameters, compiler will result in error 140 (Unknown Symbol). 
 ```gams
 set r, c;
 parameter p;
