@@ -14,8 +14,8 @@ There are various methods to import data from excel to GAMS. GDXXRW is a similar
 # Step 1: Define sets and parameters you wish to import
 Remember that this step is neccessary! If you do not define the sets and the parameters, compiler will result in error 140 (Unknown Symbol). 
 ```gams
-set r, c;
-parameter p;
+set r, c, d;
+parameter p, h, t;
 ```
 # Step 2: Create a text file containing data import addresses, types and names from within GAMS IDE
 It is better to create a text file from within GAMS IDE to determine all your desired data import tasks in one place. In step 3 we will refer to this text file and command GAMS to import data based on what's written there. The syntax to create a text is completly straight forward. Use `$onecho > 'filename.txt'` and `$offecho` to set the start and end of the text file, respectively.
