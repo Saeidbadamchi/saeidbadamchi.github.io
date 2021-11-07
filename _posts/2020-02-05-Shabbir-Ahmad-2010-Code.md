@@ -1,3 +1,15 @@
+---
+title: "Shabbir Ahmed et al. 2010 Paper Code: Critical Path Insurance and Benders Decomposition"
+categories:
+  - blog
+  - GAMS
+tags:
+  - Software
+  - Optimization
+  - GAMS
+  - Benders Decomposition
+  - Iterative Algorithms
+---
 In this post I want to show you a sample code of the model presented in the paper `Expectation and Chance-Constrained Models and Algorithms for Insuring Critical Paths` written by Shabbir Ahmed et al.
 Note that the code is just written in abstract mode so you need to do some modifications of your desire and add some sample data to run the model.
 So let's dive into the model and code it.
