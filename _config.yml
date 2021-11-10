@@ -39,7 +39,7 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
- exclude:
+# exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -47,7 +47,6 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-   - _posts/2020-01-02-financial-strategy-oversight.md
 
 # Plugins (previously gems:)
 plugins:
