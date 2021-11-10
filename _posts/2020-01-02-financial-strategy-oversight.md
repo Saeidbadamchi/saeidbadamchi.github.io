@@ -1,6 +1,6 @@
 ---
 title: "Financial ML Strategy Oversight (LifeCycle)"
-published: false
+published: true
 categories:
   - blog
   - financial machine learning
