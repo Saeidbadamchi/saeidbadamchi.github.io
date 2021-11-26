@@ -1,6 +1,6 @@
 ---
 title: "temporary"
-published: false
+published: true
 categories:
   - blog
   - financial machine learning
